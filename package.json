@@ -40,7 +40,7 @@
     "concurrently": "^5.1.0",
     "cross-env": "^7.0.2",
     "devtron": "^1.4.0",
-    "electron": "^8.1.1",
+    "electron": "^15.5.5",
     "electron-is-dev": "^1.1.0",
     "wait-on": "^4.0.1"
   }
